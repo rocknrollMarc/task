@@ -1,0 +1,4 @@
+[description:"IHK schreiben" due:"1387969703" entry:"1387796903" project:"ausbildung" status:"pending" uuid:"592439ec-20da-4efd-896b-a2773f9c728c"]
+[description:"recept besorgen" due:"1388487262" entry:"1388314462" project:"erledigen" status:"pending" uuid:"f4afb6d6-3656-47ae-82c3-3ff5b6538dd5"]
+[description:"remember the milk" due:"1388876400" entry:"1388824456" modified:"1388824468" priority:"H" status:"pending" tags:"grocery" uuid:"57a6fdfc-1264-4ee3-b900-37c6b86cb824"]
+[description:"take a shit" due:"1388790000" entry:"1388834950" status:"pending" uuid:"85315d1f-f7e5-4761-8220-6381d4591876"]
