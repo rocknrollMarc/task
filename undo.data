@@ -84,3 +84,112 @@ new [description:"remember the milk" due:"1388876400" entry:"1388824456" modifie
 time 1388834950
 new [description:"take a shit" due:"1388790000" entry:"1388834950" status:"pending" uuid:"85315d1f-f7e5-4761-8220-6381d4591876"]
 ---
+time 1388839648
+new [description:"wäsche aufhängen" due:"1388790000" entry:"1388839648" status:"pending" uuid:"57b83ccd-fa7b-48c9-9e67-6af83c05903a"]
+---
+time 1388853498
+old [description:"remember the milk" due:"1388876400" entry:"1388824456" modified:"1388824468" priority:"H" status:"pending" tags:"grocery" uuid:"57a6fdfc-1264-4ee3-b900-37c6b86cb824"]
+new [annotation_1388853498:"Started task" description:"remember the milk" due:"1388876400" entry:"1388824456" modified:"1388853498" priority:"H" start:"1388853498" status:"pending" tags:"grocery" uuid:"57a6fdfc-1264-4ee3-b900-37c6b86cb824"]
+---
+time 1388853962
+new [description:"wäsche rausholen" due:"1388790000" entry:"1388853962" status:"pending" uuid:"bffaa515-0645-40bc-b208-ef1091f6580c"]
+---
+time 1388992340
+new [description:"sperma testen" due:"1390201940" entry:"1388992340" project:"kinder" status:"pending" uuid:"e179f99c-7ba1-424e-bda1-20e80d82185d"]
+---
+time 1388992393
+new [description:"orologe suchen" entry:"1388992393" project:"kinder" status:"pending" uuid:"26b73384-df8f-4cf0-adc6-e5e6a11db6db"]
+---
+time 1389075685
+old [description:"recept besorgen" due:"1388487262" entry:"1388314462" project:"erledigen" status:"pending" uuid:"f4afb6d6-3656-47ae-82c3-3ff5b6538dd5"]
+new [description:"recept besorgen" due:"1388487262" end:"1389075685" entry:"1388314462" modified:"1389075685" project:"erledigen" status:"completed" uuid:"f4afb6d6-3656-47ae-82c3-3ff5b6538dd5"]
+---
+time 1389075693
+old [description:"wäsche aufhängen" due:"1388790000" entry:"1388839648" status:"pending" uuid:"57b83ccd-fa7b-48c9-9e67-6af83c05903a"]
+new [description:"wäsche aufhängen" due:"1388790000" end:"1389075693" entry:"1388839648" modified:"1389075693" status:"completed" uuid:"57b83ccd-fa7b-48c9-9e67-6af83c05903a"]
+---
+time 1389075699
+old [description:"take a shit" due:"1388790000" entry:"1388834950" status:"pending" uuid:"85315d1f-f7e5-4761-8220-6381d4591876"]
+new [annotation_1389075699:"Started task" description:"take a shit" due:"1388790000" entry:"1388834950" modified:"1389075699" start:"1389075699" status:"pending" uuid:"85315d1f-f7e5-4761-8220-6381d4591876"]
+---
+time 1389108796
+new [description:"bewerbung fertig machen" entry:"1389108796" project:"ausbildung" status:"pending" uuid:"041a0ad5-0289-451c-9a55-e440b649579a"]
+---
+time 1389109088
+new [description:"ministry" entry:"1389109088" project:"arbeit" status:"pending" uuid:"9a47df19-800b-4a10-8d96-cd8ab4deed45"]
+---
+time 1389109104
+new [description:"ministry schreiben" entry:"1389109104" project:"bewerbung" status:"pending" uuid:"18d7c79d-52c5-4ca0-a7ec-437a08ba9e06"]
+---
+time 1389109116
+old [description:"bewerbung fertig machen" entry:"1389108796" project:"ausbildung" status:"pending" uuid:"041a0ad5-0289-451c-9a55-e440b649579a"]
+new [annotation_1389109116:"Started task" description:"bewerbung fertig machen" entry:"1389108796" modified:"1389109116" project:"ausbildung" start:"1389109116" status:"pending" uuid:"041a0ad5-0289-451c-9a55-e440b649579a"]
+---
+time 1389183809
+new [description:"test" entry:"1389183809" status:"pending" uuid:"a896273b-0522-45e6-8776-a94de26080a8"]
+---
+time 1389184495
+old [annotation_1389075699:"Started task" description:"take a shit" due:"1388790000" entry:"1388834950" modified:"1389075699" start:"1389075699" status:"pending" uuid:"85315d1f-f7e5-4761-8220-6381d4591876"]
+new [annotation_1389075699:"Started task" annotation_1389184495:"Stopped task" description:"take a shit" due:"1388790000" end:"1389184495" entry:"1388834950" modified:"1389184495" start:"1389075699" status:"completed" uuid:"85315d1f-f7e5-4761-8220-6381d4591876"]
+---
+time 1389252759
+old [description:"wäsche rausholen" due:"1388790000" entry:"1388853962" status:"pending" uuid:"bffaa515-0645-40bc-b208-ef1091f6580c"]
+new [description:"wäsche rausholen" due:"1388790000" end:"1389252759" entry:"1388853962" modified:"1389252759" status:"completed" uuid:"bffaa515-0645-40bc-b208-ef1091f6580c"]
+---
+time 1389286413
+new [description:"baby errinern clienic anru8fen" entry:"1389286413" status:"pending" uuid:"01bfb589-4e9a-40fe-ac7e-84ccfaf70f10"]
+---
+time 1389319008
+new [description:"watch pry tuts" due:"1389837408" entry:"1389319008" project:"rails" status:"pending" uuid:"2b3db88e-c568-4382-91b9-47b816c91f4d"]
+---
+time 1389319056
+new [description:"do rails tutorial due.before:6days" entry:"1389319056" project:"rails" status:"pending" uuid:"2d1ac11a-21ca-4a6f-815d-fa5dbb2f4290"]
+---
+time 1389465492
+new [description:"Rails configured" entry:"1389465492" project:"ikiez" status:"pending" uuid:"aea66ea3-abd6-4fef-af54-118b657c7f34"]
+---
+time 1389465548
+new [description:"start" entry:"1389465548" project:"ikiez" status:"pending" uuid:"1702e9b6-0418-4863-9e1e-16f27703f59a"]
+---
+time 1389465579
+new [description:"configure webrat" entry:"1389465579" project:"ikiez" status:"pending" uuid:"9585e9d5-7b0c-468e-a82d-475381257825"]
+---
+time 1389465595
+new [description:"concept plan machen" entry:"1389465595" project:"ikiez" status:"pending" uuid:"5831bb21-db53-4845-8ea0-a6521c3c4381"]
+---
+time 1389465610
+new [description:"compass" entry:"1389465610" project:"ikiez" status:"pending" uuid:"de45dae2-ff05-4dee-a1f1-e99c095a95f9"]
+---
+time 1389465626
+new [description:"design database" entry:"1389465626" project:"ikiez" status:"pending" uuid:"d1d70af8-c4d5-46e1-8e83-5870da4753f7"]
+---
+time 1389465638
+new [description:"design views" entry:"1389465638" project:"ikiez" status:"pending" uuid:"2966fed0-119c-4170-859d-a78d2b64c38b"]
+---
+time 1389465663
+new [description:"set up factory_girl data" entry:"1389465663" project:"ikiez" status:"pending" uuid:"dd6b10ef-bfb6-4bd5-afd0-0cb4a30ca8a5"]
+---
+time 1389465725
+old [description:"Rails configured" entry:"1389465492" project:"ikiez" status:"pending" uuid:"aea66ea3-abd6-4fef-af54-118b657c7f34"]
+new [annotation_1389465708:"Started task" description:"Rails configured" entry:"1389465492" modified:"1389465725" project:"ikiez" start:"1389465708" status:"pending" uuid:"aea66ea3-abd6-4fef-af54-118b657c7f34"]
+---
+time 1389465733
+old [description:"start" entry:"1389465548" project:"ikiez" status:"pending" uuid:"1702e9b6-0418-4863-9e1e-16f27703f59a"]
+new [annotation_1389465725:"Started task" description:"start" entry:"1389465548" modified:"1389465733" project:"ikiez" start:"1389465725" status:"pending" uuid:"1702e9b6-0418-4863-9e1e-16f27703f59a"]
+---
+time 1389465735
+old [description:"configure webrat" entry:"1389465579" project:"ikiez" status:"pending" uuid:"9585e9d5-7b0c-468e-a82d-475381257825"]
+new [annotation_1389465733:"Started task" description:"configure webrat" entry:"1389465579" modified:"1389465735" project:"ikiez" start:"1389465733" status:"pending" uuid:"9585e9d5-7b0c-468e-a82d-475381257825"]
+---
+time 1389465739
+old [description:"concept plan machen" entry:"1389465595" project:"ikiez" status:"pending" uuid:"5831bb21-db53-4845-8ea0-a6521c3c4381"]
+new [annotation_1389465735:"Started task" description:"concept plan machen" entry:"1389465595" modified:"1389465739" project:"ikiez" start:"1389465735" status:"pending" uuid:"5831bb21-db53-4845-8ea0-a6521c3c4381"]
+---
+time 1389465746
+old [description:"design database" entry:"1389465626" project:"ikiez" status:"pending" uuid:"d1d70af8-c4d5-46e1-8e83-5870da4753f7"]
+new [annotation_1389465744:"Started task" description:"design database" entry:"1389465626" modified:"1389465746" project:"ikiez" start:"1389465744" status:"pending" uuid:"d1d70af8-c4d5-46e1-8e83-5870da4753f7"]
+---
+time 1389465748
+old [description:"design views" entry:"1389465638" project:"ikiez" status:"pending" uuid:"2966fed0-119c-4170-859d-a78d2b64c38b"]
+new [annotation_1389465746:"Started task" description:"design views" entry:"1389465638" modified:"1389465748" project:"ikiez" start:"1389465746" status:"pending" uuid:"2966fed0-119c-4170-859d-a78d2b64c38b"]
+---
