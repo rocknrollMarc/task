@@ -1,0 +1,66 @@
+---
+:userid: 
+:token: 
+:account_info:
+  :userid: td52d3fe61c165f
+  :alias: marc.bluemner
+  :pro: '0'
+  :dateformat: '0'
+  :timezone: '12'
+  :hidemonths: '6'
+  :hotlistpriority: '4'
+  :hotlistduedate: '14'
+  :hotliststar: '0'
+  :hotliststatus: '0'
+  :showtabnums: '0'
+  :lastedit_folder: '0'
+  :lastedit_context: '0'
+  :lastedit_goal: '0'
+  :lastedit_location: '0'
+  :lastedit_task: '0'
+  :lastdelete_task: '0'
+  :lastedit_notebook: '0'
+  :lastdelete_notebook: '0'
+:remote_folders:
+- :id: '409146'
+  :name: ausbildung
+  :private: '0'
+  :archived: '0'
+  :ord: '1'
+- :id: '409148'
+  :name: kinder
+  :private: '0'
+  :archived: '0'
+  :ord: '2'
+- :id: '409150'
+  :name: arbeit
+  :private: '0'
+  :archived: '0'
+  :ord: '3'
+- :id: '409152'
+  :name: bewerbung
+  :private: '0'
+  :archived: '0'
+  :ord: '4'
+- :id: '409154'
+  :name: rails
+  :private: '0'
+  :archived: '0'
+  :ord: '5'
+- :id: '409156'
+  :name: ikiez
+  :private: '0'
+  :archived: '0'
+  :ord: '6'
+- :id: '409158'
+  :name: erledigen
+  :private: '0'
+  :archived: '0'
+  :ord: '7'
+- :id: '409160'
+  :name: silvester
+  :private: '0'
+  :archived: '0'
+  :ord: '8'
+:remote_contexts: []
+:last_sync: 1389625636
